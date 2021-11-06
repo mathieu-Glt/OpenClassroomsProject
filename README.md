@@ -1,1 +1,3 @@
 # OpenClassroomsProject
+The objective of this exercise is to create my portfolio to talk about my professional experiences and my motivations.
+I use bootstrap, html, sass and css technologies to carry out this project. 
