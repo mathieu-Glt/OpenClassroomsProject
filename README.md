@@ -4,3 +4,6 @@ I use bootstrap, html, sass and css technologies to carry out this project.
 
  # Technologies
  ![html](images/html.png)
+ ![css](images/css.png)
+ ![bootstrap](images/bootstrap.png)
+ 
