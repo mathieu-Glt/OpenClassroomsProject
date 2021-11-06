@@ -8,3 +8,24 @@
      list-style: thumbs;
   }
   
+.space-fusee {
+    padding-left: 2rem;
+    list-style-type: none;
+}  
+
+.space-fusee li {
+    padding-left: 2rem;
+    background-image: url(fusee.png);
+    background-position: 0 0;
+    background-size: 1.6rem 1.6rem;
+    background-repeat: no-repeat;
+}
+
+.boite {
+    text-decoration: underline;
+}
+
+/*
+a:hover {
+    color: rgb(236, 195, 59);
+}*/
