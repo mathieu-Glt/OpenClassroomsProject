@@ -1,6 +1,7 @@
 const app = {
     init: function(){
         console.log('ok');
+        task.taskEvent();
     },
 }
 
