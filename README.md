@@ -6,4 +6,5 @@ I use bootstrap, html, sass and css technologies to carry out this project.
  ![html](images/html.png)
  ![css](images/css.png)
  ![bootstrap](images/bootstrap.png)
+ ![js](images/js.png)
  
